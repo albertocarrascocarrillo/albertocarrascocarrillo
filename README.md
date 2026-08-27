@@ -1,7 +1,7 @@
 # Hola, soy Alberto 👋
 
-🎓 Técnico Superior en Desarrollo de Aplicaciones Web.
-🚀 Actualmente ampliando mis conocimientos y desarrollando proyectos para seguir creciendo como desarrollador.
+🎓 Técnico Superior en Desarrollo de Aplicaciones Web.  
+🚀 Actualmente ampliando mis conocimientos y para seguir creciendo como desarrollador.
 
 ### Contacto
 
